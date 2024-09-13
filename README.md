@@ -1,1 +1,2 @@
-# DigitaxGroup-CMS
+# Digitax-Cms
+Content Management System
